@@ -3,3 +3,7 @@ __pycache__/
 /input/
 *.lnk
 *.md
+/backup_*.zip
+/.venv/
+/build/
+/dist/

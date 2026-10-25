@@ -16,7 +16,7 @@ Layout of a .sav (all little-endian):
   Every stored offset is relative to the container start, i.e. body offset + 0xC0C.
   Most SS records hold property streams; see StreamWalker for their layout.
 """
-import argparse, bisect, re, shutil, struct
+import argparse, bisect, re, shutil, struct, sys
 from collections import Counter
 from pathlib import Path
 
@@ -112,20 +112,29 @@ def read_container(path):
     return parse_container(Path(path).read_bytes())
 
 
-def parse_container(data):
+def parse_container(data, max_chunks=None):
+    """Decompressed body; with max_chunks, only the start of it."""
     if data[:8] != b'SNFHFZLC':
         raise ValueError(f'not a Witcher 3 save (magic {data[:8]!r})')
     nchunks, hdr = struct.unpack_from('<II', data, 8)
     if hdr != HDR:
         raise ValueError(f'unexpected container header size {hdr:#x}')
     pos, body = hdr, bytearray()
-    for k in range(nchunks):
+    for k in range(nchunks if max_chunks is None else min(nchunks, max_chunks)):
         comp, decomp, end = struct.unpack_from('<III', data, 16 + 12 * k)
         body += lz4_decompress(data[pos:pos+comp], decomp)
         pos += comp
-    if pos != len(data):
+    if max_chunks is None and pos != len(data):
         raise ValueError(f'container has {len(data) - pos} trailing bytes')
     return bytes(body)
+
+
+def read_version(path):
+    """(saveVersion, gameVersion, build) of a save, decompressing only its first chunk."""
+    head = parse_container(Path(path).read_bytes(), max_chunks=1)
+    if head[:4] != b'SAV3':
+        raise ValueError('not a Witcher 3 save (no SAV3 body)')
+    return struct.unpack_from('<III', head, 4)
 
 
 def write_container(body):
@@ -726,6 +735,12 @@ def decode_short_string(raw):
     return raw[1:1+ln].decode('latin-1')
 
 
+def builtin_skill_template():
+    """The 4.04 skill template shipped with the program: next to this file, or inside the
+    PyInstaller bundle when running as a standalone executable."""
+    return Path(getattr(sys, '_MEIPASS', Path(__file__).resolve().parent)) / 'skill_tree_404.json'
+
+
 def load_skill_template(path):
     import json
     if not Path(path).is_file():
@@ -881,11 +896,11 @@ def verify(body, expect_version, src=None):
     return s
 
 
-def convert(save_path, out_dir, skill_template, keep_new_blocks=False, log=print):
+def convert(save_path, out_dir, skill_template=None, keep_new_blocks=False, log=print):
     """Downgrade save_path into out_dir (with its screenshot), resetting skills to the 4.04 tree
-    in the skill_template file; returns the written .sav path."""
+    in the skill_template file (default: the built-in one); returns the written .sav path."""
     save_path, out_dir = Path(save_path), Path(out_dir)
-    template = load_skill_template(skill_template)
+    template = load_skill_template(skill_template or builtin_skill_template())
     src = Save(read_container(save_path))
     log(f'{save_path.name}: version {src.version}, {len(src.records)} records')
     if src.version[0] <= TARGET[0]:
@@ -907,18 +922,21 @@ def convert(save_path, out_dir, skill_template, keep_new_blocks=False, log=print
     return target
 
 
-def main():
-    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+def main(epilog=None):
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0], epilog=epilog)
     ap.add_argument('save', type=Path, help='5.0.x .sav file (or a 4.04 .sav with --make-skill-template)')
-    ap.add_argument('-t', '--skill-template', type=Path, required=True,
-                    help='4.04 skill tree JSON (e.g. skill_tree_404.json); written by --make-skill-template')
     ap.add_argument('-o', '--out-dir', type=Path, help='folder for the converted save (required when converting)')
+    ap.add_argument('-t', '--skill-template', type=Path,
+                    help='4.04 skill tree JSON to use instead of the built-in one; '
+                         'with --make-skill-template, the file to write')
     ap.add_argument('--keep-new-blocks', action='store_true',
                     help='leave the 5.0-only blocks and values (build ID, mod list, map-pin ShowAlways, '
                          'HasScar) in place; versions, inventories and skills are still converted')
     ap.add_argument('--make-skill-template', action='store_true',
                     help='extract the 4.04 skill tree from SAVE (a 4.04 save) into the --skill-template file')
     args = ap.parse_args()
+    if args.make_skill_template and args.skill_template is None:
+        ap.error('--make-skill-template needs -t/--skill-template (the file to write)')
     if not args.make_skill_template and args.out_dir is None:
         ap.error('the following arguments are required when converting: -o/--out-dir')
     try:
