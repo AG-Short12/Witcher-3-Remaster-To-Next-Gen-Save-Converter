@@ -435,11 +435,10 @@ def object_class(save, v):
     return save.name(struct.unpack_from('<H', v, 6)[0]) if len(v) > 8 and v[:2] == b'\0\x01' else None
 
 
-SKILL_TEMPLATE = Path(__file__).with_name('skill_tree_404.json')
 NAME_LISTS = ('array:2,0,CName', 'array:2,0,ESkill')
 
 
-def make_skill_template(save_path, out_path=SKILL_TEMPLATE):
+def make_skill_template(save_path, out_path):
     """Extract the 4.04 skill tree (definitions in 4.04's array order) from a 4.04 save,
     with every bought skill at level 0. Values that reference names are stored by name."""
     import json
@@ -727,15 +726,15 @@ def decode_short_string(raw):
     return raw[1:1+ln].decode('latin-1')
 
 
-def load_skill_template(path=SKILL_TEMPLATE):
+def load_skill_template(path):
     import json
-    if not Path(path).exists():
-        raise ValueError(f'skill template {path} not found; create it from a 4.04 save with '
-                         f'"python w3_downgrade.py --make-skill-template <4.04 save>"')
+    if not Path(path).is_file():
+        raise ValueError(f'skill template {path} not found; create one from a 4.04 save with '
+                         f'"python w3_downgrade.py <4.04 save> --make-skill-template -t <template.json>"')
     return json.loads(Path(path).read_text())
 
 
-def downgrade(save, keep_new_blocks=False, log=print, skill_template=None):
+def downgrade(save, skill_template, keep_new_blocks=False, log=print):
     body = bytearray(save.body)
     names = list(save.names)
     edits = []  # (start, end, replacement) on the data section, non-overlapping
@@ -743,7 +742,7 @@ def downgrade(save, keep_new_blocks=False, log=print, skill_template=None):
     # inside property streams: drop the per-item inventory field, HasScar (unless kept),
     # reset the skill tree and unequip mutagens, and resize every size field enclosing a
     # changed range; a read-only pre-pass first finds Geralt's level and equipped mutagens
-    reset = SkillReset(save, names, skill_template or load_skill_template())
+    reset = SkillReset(save, names, skill_template)
     StreamWalker(save, ITEM_EXTRA_5_0, rewrite=reset.scan, rewrite_item=reset.scan_item).walk()
     reset.find_player_inventory()
     streams = StreamWalker(save, ITEM_EXTRA_5_0, () if keep_new_blocks else REMOVED_STREAM_VALUES,
@@ -882,15 +881,17 @@ def verify(body, expect_version, src=None):
     return s
 
 
-def convert(save_path, out_dir, keep_new_blocks=False, log=print):
-    """Downgrade save_path into out_dir (with its screenshot); returns the written .sav path."""
+def convert(save_path, out_dir, skill_template, keep_new_blocks=False, log=print):
+    """Downgrade save_path into out_dir (with its screenshot), resetting skills to the 4.04 tree
+    in the skill_template file; returns the written .sav path."""
     save_path, out_dir = Path(save_path), Path(out_dir)
+    template = load_skill_template(skill_template)
     src = Save(read_container(save_path))
     log(f'{save_path.name}: version {src.version}, {len(src.records)} records')
     if src.version[0] <= TARGET[0]:
         raise ValueError(f'save is already in 4.04 format or older (version {src.version})')
 
-    body = downgrade(src, keep_new_blocks, log)
+    body = downgrade(src, template, keep_new_blocks, log)
     out = write_container(body)
     if parse_container(out) != body:
         raise ValueError('round-trip of recompressed save failed')
@@ -909,19 +910,23 @@ def convert(save_path, out_dir, keep_new_blocks=False, log=print):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument('save', type=Path, help='5.0.x .sav file (or a 4.04 .sav with --make-skill-template)')
-    ap.add_argument('-o', '--out-dir', type=Path, default=Path(__file__).parent / 'output')
+    ap.add_argument('-t', '--skill-template', type=Path, required=True,
+                    help='4.04 skill tree JSON (e.g. skill_tree_404.json); written by --make-skill-template')
+    ap.add_argument('-o', '--out-dir', type=Path, help='folder for the converted save (required when converting)')
     ap.add_argument('--keep-new-blocks', action='store_true',
                     help='leave the 5.0-only blocks and values (build ID, mod list, map-pin ShowAlways, '
                          'HasScar) in place; versions, inventories and skills are still converted')
     ap.add_argument('--make-skill-template', action='store_true',
-                    help=f'extract the 4.04 skill tree from SAVE (a 4.04 save) into {SKILL_TEMPLATE.name}')
+                    help='extract the 4.04 skill tree from SAVE (a 4.04 save) into the --skill-template file')
     args = ap.parse_args()
+    if not args.make_skill_template and args.out_dir is None:
+        ap.error('the following arguments are required when converting: -o/--out-dir')
     try:
         if args.make_skill_template:
-            t = make_skill_template(args.save)
-            print(f'wrote {SKILL_TEMPLATE} ({len(t["skills"])} skill entries from {args.save.name})')
+            t = make_skill_template(args.save, args.skill_template)
+            print(f'wrote {args.skill_template} ({len(t["skills"])} skill entries from {args.save.name})')
         else:
-            convert(args.save, args.out_dir, args.keep_new_blocks)
+            convert(args.save, args.out_dir, args.skill_template, args.keep_new_blocks)
     except ValueError as e:
         raise SystemExit(str(e))
 
