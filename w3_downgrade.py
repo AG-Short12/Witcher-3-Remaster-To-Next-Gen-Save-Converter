@@ -918,6 +918,9 @@ def convert(save_path, out_dir, skill_template=None, keep_new_blocks=False, log=
     png = save_path.with_suffix('.png')
     if png.exists():
         shutil.copyfile(png, target.with_suffix('.png'))
+        log(f'  screenshot: copied {png.name} unchanged')
+    else:
+        log(f'  screenshot: no {png.name} next to the save, skipped')
     log(f'wrote {target} ({len(out)} bytes, {len(dst.records)} records, verified)')
     return target
 
