@@ -1,0 +1,9392 @@
+{
+ "source": "ManualSave_55607_7e73f000_4136a4c.sav",
+ "version": [
+  64,
+  27,
+  163
+ ],
+ "skills": [
+  [],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_1"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_StyleFast"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_1"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f73776f72645f31"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f73776f72645f31"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9d69636f6e735c536b696c6c735c636f72655c73776f72645f312e706e67"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_2"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_StyleStrong"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_2"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f73776f72645f32"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f73776f72645f32"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9d69636f6e735c536b696c6c735c636f72655c73776f72645f322e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_3"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_Utility"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_3"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f73776f72645f33"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f73776f72645f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9d69636f6e735c536b696c6c735c636f72655c73776f72645f332e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "02000000"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_4"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_Crossbow"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_4"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f73776f72645f34"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f73776f72645f34"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9d69636f6e735c536b696c6c735c636f72655c73776f72645f342e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_5"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_BattleTrance"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_5"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f73776f72645f35"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f73776f72645f35"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9d69636f6e735c536b696c6c735c636f72655c73776f72645f352e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "04000000"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_1"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Aard"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_1"
+    }
+   ],
+   [
+    "modifierTags",
+    "array:2,0,CName",
+    {
+     "names": [
+      "Aard"
+     ]
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f6d616769635f31"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f6d616769635f31"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9d69636f6e735c536b696c6c735c636f72655c6d616769635f312e706e67"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ],
+   [
+    "precachedModifierSkills",
+    "array:2,0,ESkill",
+    {
+     "names": [
+      "S_Magic_s12"
+     ]
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_2"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Igni"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_2"
+    }
+   ],
+   [
+    "modifierTags",
+    "array:2,0,CName",
+    {
+     "names": [
+      "Igni"
+     ]
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f6d616769635f32"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f6d616769635f32"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9d69636f6e735c536b696c6c735c636f72655c6d616769635f322e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ],
+   [
+    "precachedModifierSkills",
+    "array:2,0,ESkill",
+    {
+     "names": [
+      "S_Magic_s07"
+     ]
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_3"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Yrden"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_3"
+    }
+   ],
+   [
+    "modifierTags",
+    "array:2,0,CName",
+    {
+     "names": [
+      "Yrden"
+     ]
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f6d616769635f33"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f6d616769635f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9d69636f6e735c536b696c6c735c636f72655c6d616769635f332e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "02000000"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ],
+   [
+    "precachedModifierSkills",
+    "array:2,0,ESkill",
+    {
+     "names": [
+      "S_Magic_s10",
+      "S_Magic_s16"
+     ]
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_4"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Quen"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_4"
+    }
+   ],
+   [
+    "modifierTags",
+    "array:2,0,CName",
+    {
+     "names": [
+      "Quen"
+     ]
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f6d616769635f34"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f6d616769635f34"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9d69636f6e735c536b696c6c735c636f72655c6d616769635f342e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ],
+   [
+    "precachedModifierSkills",
+    "array:2,0,ESkill",
+    {
+     "names": [
+      "S_Magic_s15"
+     ]
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_5"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Axi"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_5"
+    }
+   ],
+   [
+    "modifierTags",
+    "array:2,0,CName",
+    {
+     "names": [
+      "Axii"
+     ]
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f6d616769635f35"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f6d616769635f35"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9d69636f6e735c536b696c6c735c636f72655c6d616769635f352e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "04000000"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ],
+   [
+    "precachedModifierSkills",
+    "array:2,0,ESkill",
+    {
+     "names": [
+      "S_Magic_s17",
+      "S_Magic_s18"
+     ]
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_1"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Potions"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_1"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f616c6368656d795f31"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f616c6368656d795f31"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c636f72655c616c6368656d795f312e706e67"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_2"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Oils"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_2"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f616c6368656d795f32"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f616c6368656d795f32"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c636f72655c616c6368656d795f322e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_3"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Bombs"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_3"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f616c6368656d795f33"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f616c6368656d795f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c636f72655c616c6368656d795f332e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "02000000"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_4"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Mutagens"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_4"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f616c6368656d795f34"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f616c6368656d795f34"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c636f72655c616c6368656d795f342e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_5"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Grasses"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_5"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f616c6368656d795f35"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f616c6368656d795f35"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c636f72655c616c6368656d795f352e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "04000000"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s01"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_StyleFast"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "05000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s1"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f73776f72645f7331"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7331"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f73776f72645f73315f32"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f73776f72645f73315f32"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c53776f72645c73776f72645f73312e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "1f000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s02"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_StyleStrong"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "04000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s2"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f73776f72645f7332"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7332"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7332"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7332"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c53776f72645c73776f72645f73322e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s03"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_Utility"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "02000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "08000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s3"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f73776f72645f7333"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7333"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7333"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7333"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c53776f72645c73776f72645f7331312e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "08000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s04"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_StyleStrong"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "10000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s4"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f73776f72645f7334"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7334"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7334"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7334"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c53776f72645c73776f72645f73342e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "10000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s05"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_StyleFast"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "0e000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s5"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f73776f72645f7335"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7335"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7335"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7335"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c53776f72645c73776f72645f73352e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "15000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s06"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_StyleStrong"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "0f000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s6"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f73776f72645f7336"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7336"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7336"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7336"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c53776f72645c73776f72645f73362e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "11000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s07"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_Crossbow"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s7"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f73776f72645f7337"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7337"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7337"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7337"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c53776f72645c73776f72645f7331322e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "21000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s08"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_StyleStrong"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "15000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s8"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f73776f72645f7338"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7338"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7338"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7338"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c53776f72645c73776f72645f73382e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s09"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_Utility"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "0d000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s9"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f73776f72645f7339"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7339"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7339"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f73776f72645f7339"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c53776f72645c73776f72645f73392e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0f000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s10"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_Utility"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "02000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "11000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s10"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f73776f72645f733130"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733130"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f73776f72645f7331305f32"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f73776f72645f7331305f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c53776f72645c73776f72645f7331302e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0b000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s11"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_Utility"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "0d000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s11"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f73776f72645f733131"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733131"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f73776f72645f7331315f32"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f73776f72645f7331315f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c53776f72645c73776f72645f73332e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "19000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s12"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_Crossbow"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "13000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s12"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f73776f72645f733132"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733132"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733132"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733132"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c53776f72645c73776f72645f73372e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "07000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s13"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_Crossbow"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "02000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s13"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f73776f72645f733133"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733133"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733133"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733133"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c53776f72645c73776f72645f7331332e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0a000000"
+    }
+   ]
+  ],
+  [],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s15"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_Crossbow"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s15"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f73776f72645f733135"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733135"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733135"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733135"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c53776f72645c73776f72645f7331352e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s16"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_BattleTrance"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "07000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s16"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f73776f72645f733136"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733136"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733136"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733136"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c53776f72645c73776f72645f7331362e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s17"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_StyleFast"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s17"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f73776f72645f733137"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733137"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733137"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733137"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c53776f72645c73776f72645f7331372e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "20000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s18"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_BattleTrance"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s18"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f73776f72645f733138"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733138"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f73776f72645f7331385f32"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f73776f72645f7331385f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c53776f72645c73776f72645f7331382e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "1b000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s19"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_BattleTrance"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s19"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f73776f72645f733139"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733139"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733139"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733139"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c53776f72645c73776f72645f7331392e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "25000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s20"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_BattleTrance"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s20"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f73776f72645f733230"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733230"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733230"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733230"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c53776f72645c73776f72645f7332302e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "1c000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Sword_s21"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Sword"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Sword_StyleFast"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "sword_s21"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f73776f72645f733231"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733231"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733231"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f73776f72645f733231"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c53776f72645c73776f72645f7332312e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "1a000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s01"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Aard"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s1"
+    }
+   ],
+   [
+    "modifierTags",
+    "array:2,0,CName",
+    {
+     "names": [
+      "Aard"
+     ]
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f6d616769635f7331"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7331"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f6d616769635f73315f32"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f6d616769635f73315f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c5369676e735c6d616769635f73312e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "precachedModifierSkills",
+    "array:2,0,ESkill",
+    {
+     "names": [
+      "S_Magic_s12"
+     ]
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s02"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Igni"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s2"
+    }
+   ],
+   [
+    "modifierTags",
+    "array:2,0,CName",
+    {
+     "names": [
+      "Igni"
+     ]
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f6d616769635f7332"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7332"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f6d616769635f73325f32"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f6d616769635f73325f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c5369676e735c6d616769635f73322e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "16000000"
+    }
+   ],
+   [
+    "precachedModifierSkills",
+    "array:2,0,ESkill",
+    {
+     "names": [
+      "S_Magic_s07"
+     ]
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s03"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Yrden"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s3"
+    }
+   ],
+   [
+    "modifierTags",
+    "array:2,0,CName",
+    {
+     "names": [
+      "Yrden"
+     ]
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f6d616769635f7333"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7333"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f6d616769635f73335f32"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f6d616769635f73335f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c5369676e735c6d616769635f73332e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "1f000000"
+    }
+   ],
+   [
+    "precachedModifierSkills",
+    "array:2,0,ESkill",
+    {
+     "names": [
+      "S_Magic_s10",
+      "S_Magic_s16"
+     ]
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s04"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Quen"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s4"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f6d616769635f7334"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7334"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f6d616769635f73345f32"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f6d616769635f73345f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c5369676e735c6d616769635f73342e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "05000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s05"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Axi"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s5"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f6d616769635f7335"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7335"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7335"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7335"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c5369676e735c6d616769635f73352e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "17000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s06"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Aard"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s6"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f6d616769635f7336"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7336"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f6d616769635f73365f32"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f6d616769635f73365f32"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c5369676e735c6d616769635f7331322e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "10000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s07"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Igni"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s7"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f6d616769635f7337"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7337"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7337"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7337"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c5369676e735c6d616769635f73372e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "25000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s08"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Igni"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s8"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f6d616769635f7338"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7338"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7338"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7338"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c5369676e735c6d616769635f73382e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "11000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s09"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Igni"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s9"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f6e616d655f6d616769635f7339"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7339"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7339"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "93736b696c6c5f646573635f6d616769635f7339"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c5369676e735c6d616769635f73392e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0b000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s10"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Yrden"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "02000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s10"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f6d616769635f733130"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733130"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733130"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733130"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c5369676e735c6d616769635f7331302e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "1b000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s11"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Yrden"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s11"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f6d616769635f733131"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733131"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733131"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733131"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c5369676e735c6d616769635f7331362e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "1c000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s12"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Aard"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s12"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f6d616769635f733132"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733132"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733132"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733132"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c536b696c6c735c5369676e735c6d616769635f73362e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "1a000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s13"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Quen"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s13"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f6d616769635f733133"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733133"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f6d616769635f7331335f32"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f6d616769635f7331335f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c5369676e735c6d616769635f7331342e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0a000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s14"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Quen"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s14"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f6d616769635f733134"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733134"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733134"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733134"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c5369676e735c6d616769635f7331352e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s15"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Quen"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s15"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f6d616769635f733135"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733135"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733135"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733135"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c5369676e735c6d616769635f7331332e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0f000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s16"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Yrden"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s16"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f6d616769635f733136"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733136"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733136"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733136"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c5369676e735c6d616769635f7331312e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "20000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s17"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Axi"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s17"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f6d616769635f733137"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733137"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f6d616769635f7331375f32"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f6d616769635f7331375f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c5369676e735c6d616769635f7331372e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "07000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s18"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Axi"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s18"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f6d616769635f733138"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733138"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733138"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733138"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c5369676e735c6d616769635f7331382e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "24000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s19"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Axi"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s19"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f6d616769635f733139"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733139"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f6d616769635f7331395f32"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f6d616769635f7331395f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c5369676e735c6d616769635f7331392e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Magic_s20"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Signs"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Signs_Aard"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "magic_s20"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f6e616d655f6d616769635f733230"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733230"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733230"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "94736b696c6c5f646573635f6d616769635f733230"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c536b696c6c735c5369676e735c6d616769635f7332302e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "1f000000"
+    }
+   ]
+  ],
+  [],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s01"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Potions"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s1"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f6e616d655f616c6368656d795f7331"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7331"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7331"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7331"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a369636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f73312e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "16000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s02"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Potions"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s2"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f6e616d655f616c6368656d795f7332"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7332"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7332"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7332"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a369636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f73322e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s03"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Potions"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s3"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f6e616d655f616c6368656d795f7333"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7333"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7333"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7333"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a369636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f73332e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "25000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s04"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Potions"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s4"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f6e616d655f616c6368656d795f7334"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7334"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7334"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7334"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a369636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f73342e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "24000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s05"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Oils"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "24000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s5"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f6e616d655f616c6368656d795f7335"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7335"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7335"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7335"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a369636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f73352e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "08000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s06"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Oils"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "24000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s6"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f6e616d655f616c6368656d795f7336"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7336"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "97736b696c6c5f646573635f616c6368656d795f73365f32"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "97736b696c6c5f646573635f616c6368656d795f73365f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a369636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f73362e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s07"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Oils"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "24000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s7"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f6e616d655f616c6368656d795f7337"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7337"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7337"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7337"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a369636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f73372e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0f000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s08"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Bombs"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "25000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s8"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f6e616d655f616c6368656d795f7338"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7338"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7338"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7338"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a369636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f73382e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s09"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Bombs"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "24000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s9"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f6e616d655f616c6368656d795f7339"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7339"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7339"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "95736b696c6c5f646573635f616c6368656d795f7339"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a369636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f73392e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "1f000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s10"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Bombs"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "25000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s10"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f6e616d655f616c6368656d795f733130"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733130"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733130"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733130"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a469636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f7331302e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "1a000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s11"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Bombs"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "25000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s11"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f6e616d655f616c6368656d795f733131"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733131"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733131"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733131"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a469636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f7331312e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "1e000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s12"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Oils"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "24000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s12"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f6e616d655f616c6368656d795f733132"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733132"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733132"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733132"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a469636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f7332312e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0b000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s13"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Mutagens"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "25000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s13"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f6e616d655f616c6368656d795f733133"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733133"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733133"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733133"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a469636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f7331332e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "10000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s14"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Mutagens"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "25000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s14"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f6e616d655f616c6368656d795f733134"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733134"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733134"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733134"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a469636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f7331342e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "15000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s15"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Grasses"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "25000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s15"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f6e616d655f616c6368656d795f733135"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733135"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733135"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733135"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a469636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f7331352e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "1b000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s16"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Grasses"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "25000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s16"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f6e616d655f616c6368656d795f733136"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733136"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "98736b696c6c5f646573635f616c6368656d795f7331365f32"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "98736b696c6c5f646573635f616c6368656d795f7331365f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a469636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f7331362e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0d000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s17"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Grasses"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "25000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s17"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f6e616d655f616c6368656d795f733137"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733137"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733137"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733137"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a469636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f7331372e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "1c000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s18"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Mutagens"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "25000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s18"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f6e616d655f616c6368656d795f733138"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733138"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "98736b696c6c5f646573635f616c6368656d795f7331385f32"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "98736b696c6c5f646573635f616c6368656d795f7331385f33"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a469636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f7331382e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "11000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s19"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Mutagens"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "25000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s19"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f6e616d655f616c6368656d795f733139"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733139"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733139"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733139"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a469636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f7331392e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "19000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Alchemy_s20"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Alchemy"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Alchemy_Grasses"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ],
+   [
+    "requiredPointsSpent",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ],
+   [
+    "priority",
+    "Int32",
+    {
+     "hex": "25000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "alchemy_s20"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f6e616d655f616c6368656d795f733230"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733230"
+    }
+   ],
+   [
+    "localisationDescriptionLevel2Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733230"
+    }
+   ],
+   [
+    "localisationDescriptionLevel3Key",
+    "String",
+    {
+     "hex": "96736b696c6c5f646573635f616c6368656d795f733230"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a469636f6e735c536b696c6c735c416c6368656d795c616c6368656d795f7332302e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "20000000"
+    }
+   ]
+  ],
+  [],
+  [],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_01"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col1"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_1"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f6e616d655f7065726b5f31"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f646573635f7065726b5f31"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9969636f6e735c5065726b735c735f7065726b5f33322e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_02"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col1"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_2"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f6e616d655f7065726b5f32"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f646573635f7065726b5f32"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9969636f6e735c5065726b735c735f7065726b5f31382e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "06000000"
+    }
+   ]
+  ],
+  [],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_04"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col2"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_4"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f6e616d655f7065726b5f34"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f646573635f7065726b5f34"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9969636f6e735c5065726b735c735f7065726b5f33332e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "02000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_05"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col3"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_5"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f6e616d655f7065726b5f35"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f646573635f7065726b5f35"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9869636f6e735c5065726b735c735f7065726b5f372e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "03000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_06"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col4"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_6"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f6e616d655f7065726b5f36"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f646573635f7065726b5f36"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9869636f6e735c5065726b735c735f7065726b5f382e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "04000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_07"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col5"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_7"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f6e616d655f7065726b5f37"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f646573635f7065726b5f37"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9869636f6e735c5065726b735c735f7065726b5f392e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "05000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_08"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_8"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f6e616d655f7065726b5f38"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f646573635f7065726b5f38"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9869636f6e735c5065726b735c735f7065726b5f382e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "63000000"
+    }
+   ],
+   [
+    "isCoreSkill",
+    "Bool",
+    {
+     "hex": "01"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_09"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col2"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_9"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f6e616d655f7065726b5f39"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "91736b696c6c5f646573635f7065726b5f39"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9969636f6e735c5065726b735c735f7065726b5f32332e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "07000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_10"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col3"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_10"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f7065726b5f3130"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f7065726b5f3130"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9969636f6e735c5065726b735c735f7065726b5f31372e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "08000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_11"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col4"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_11"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f7065726b5f3131"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f7065726b5f3131"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9969636f6e735c5065726b735c735f7065726b5f31362e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "09000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_12"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col5"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_12"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f7065726b5f3132"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f7065726b5f3132"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9969636f6e735c5065726b735c735f7065726b5f33302e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0a000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_13"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col1"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_13"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f7065726b5f3133"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f7065726b5f3133"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a569636f6e735c5065726b735c69636f5f6d657461626f6c69736d5f626f6f7374732e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0b000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_14"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col1"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_14"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f7065726b5f3134"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f7065726b5f3134"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a769636f6e735c5065726b735c69636f6e5f7065726b5f666f63757365645f706f7765722e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "10000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_15"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col2"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_15"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f7065726b5f3135"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f7065726b5f3135"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a069636f6e735c5065726b735c69636f6e5f7065726b5f666f6f6469652e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "11000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_16"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col3"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_16"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f7065726b5f3136"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f7065726b5f3136"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a469636f6e735c5065726b735c69636f6e5f7065726b5f736166655f68616e64732e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "12000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_17"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col5"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_17"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f7065726b5f3137"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f7065726b5f3137"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9e69636f6e735c5065726b735c69636f5f747269636b5f73686f742e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0c000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_18"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col1"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_18"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f7065726b5f3138"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f7065726b5f3138"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a969636f6e735c5065726b735c69636f5f616476616e6365645f7079726f746563686e6963732e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0d000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_19"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col2"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_19"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f7065726b5f3139"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f7065726b5f3139"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a169636f6e735c5065726b735c69636f5f626174746c655f4672656e7a792e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0e000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_20"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col4"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_20"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f7065726b5f3230"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f7065726b5f3230"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a469636f6e735c5065726b735c69636f6e5f7065726b5f7079726f6d616e6961632e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "13000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_21"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col5"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_21"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f7065726b5f3231"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f7065726b5f3231"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "a169636f6e735c5065726b735c69636f6e5f7065726b5f646566656e73652e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "14000000"
+    }
+   ]
+  ],
+  [
+   [
+    "skillType",
+    "ESkill",
+    {
+     "name": "S_Perk_22"
+    }
+   ],
+   [
+    "skillPath",
+    "ESkillPath",
+    {
+     "name": "ESP_Perks"
+    }
+   ],
+   [
+    "skillSubPath",
+    "ESkillSubPath",
+    {
+     "name": "ESSP_Perks_col5"
+    }
+   ],
+   [
+    "level",
+    "Int32",
+    {
+     "hex": "00000000"
+    }
+   ],
+   [
+    "maxLevel",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "cost",
+    "Int32",
+    {
+     "hex": "01000000"
+    }
+   ],
+   [
+    "abilityName",
+    "CName",
+    {
+     "name": "perk_22"
+    }
+   ],
+   [
+    "localisationNameKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f6e616d655f7065726b5f3232"
+    }
+   ],
+   [
+    "localisationDescriptionKey",
+    "String",
+    {
+     "hex": "92736b696c6c5f646573635f7065726b5f3232"
+    }
+   ],
+   [
+    "iconPath",
+    "String",
+    {
+     "hex": "9f69636f6e735c5065726b735c69636f5f7374726f6e675f6261636b2e706e67"
+    }
+   ],
+   [
+    "positionID",
+    "Int32",
+    {
+     "hex": "0f000000"
+    }
+   ]
+  ]
+ ]
+}
