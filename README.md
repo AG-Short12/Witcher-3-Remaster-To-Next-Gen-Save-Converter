@@ -42,7 +42,7 @@ python w3_downgrade_app.py
 
 ### **Converting a save**
 
-![The converter after converting a save](screenshots/main.png)
+<img src="screenshots/main.png" alt="The converter after converting a save" width="75%">
 
 **1. Choose your save with the first Browse button. Your saves are usually in**  
    `Documents\The Witcher 3\gamesaves`.  
@@ -58,7 +58,7 @@ been needed.*
 
 The Browse buttons open a small file browser inside the program:
 
-![Choosing a save in the file browser](screenshots/browser.png)
+<img src="screenshots/browser.png" alt="Choosing a save in the file browser" width="75%">
 
 After you have converted your save, loaded it in-game and confirmed everything is how it should be, overwrite or make a save while on 4.04 so the game
 can do its thing and create a better structured save-file.
