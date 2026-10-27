@@ -50,6 +50,12 @@ python w3_downgrade_app.py
 3. Leave the skill template empty and press "Convert to 4.04".
 4. Copy the new `.sav` file and its `.png` picture from the output folder into your save folder.
 
+The **"Keep 5.0-only data"** box should normally stay unticked. It is a fallback in case a converted save
+does not load in 4.04. When it is ticked, the converter leaves a few small pieces of 5.0 data in the save:
+the game's build number, the list of mods, an extra map-marker setting and a setting for Geralt's scar.
+Everything else is converted as usual, including the inventory, skills and mutagens. So far, it has not
+been needed.
+
 The Browse buttons open a small file browser inside the program:
 
 ![Choosing a save in the file browser](screenshots/browser.png)
