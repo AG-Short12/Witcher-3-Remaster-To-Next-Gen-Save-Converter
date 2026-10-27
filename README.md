@@ -26,7 +26,7 @@ let me know)
 
 **On Windows**
 
-Download `w3-downgrade.exe` from the
+Download `w3-downgrade-[version]-win.exe` from the
 [Releases](https://github.com/AG07-Alexander-Gel/Witcher-3-Remaster-To-Next-Gen-Converter/releases) page
 and double-click it. You do not need to install Python. If Windows warns you about an unknown program,
 choose "More info" and then "Run anyway".
