@@ -8,7 +8,7 @@ from textual.app import App, ComposeResult
 from textual.binding import Binding
 from textual.containers import Horizontal, Vertical
 from textual.screen import ModalScreen
-from textual.widgets import Button, Checkbox, DirectoryTree, Footer, Header, Input, Label, Log, Static
+from textual.widgets import Button, Checkbox, DirectoryTree, Footer, Header, Input, Label, RichLog, Static
 from textual.worker import get_current_worker
 
 from w3_downgrade import TARGET, convert, read_version
@@ -149,7 +149,7 @@ class DowngradeApp(App):
     #save-info { color: $text-muted; padding-left: 17; }
     #actions { padding-left: 16; }
     #convert { margin-left: 2; }
-    #log { height: 1fr; min-height: 5; margin: 0 2 1 2; border: round $primary; }
+    #log { height: 1fr; min-height: 5; max-height: 10; margin: 0 2 1 2; border: round $primary; }
     PathPicker, Confirm { align: center middle; }
     #picker { width: 90%; height: 85%; padding: 1 2; border: thick $primary; background: $surface; }
     #picker-title { text-style: bold; margin-bottom: 1; }
@@ -189,7 +189,7 @@ class DowngradeApp(App):
                                 'still converted.')
                 yield keep
                 yield Button('Convert to 4.04', id='convert', variant='primary')
-        log = Log(id='log')
+        log = RichLog(id='log', wrap=True, min_width=20)  # wraps long lines instead of scrolling sideways
         log.border_title = 'Log'
         yield log
         yield Footer()
@@ -280,24 +280,25 @@ class DowngradeApp(App):
         if target.exists() and not await self.push_screen_wait(Confirm(f'{target} already exists. Overwrite it?')):
             return
 
-        button, log = self.query_one('#convert', Button), self.query_one(Log)
+        button, log = self.query_one('#convert', Button), self.query_one(RichLog)
         button.disabled = True
         log.clear()
 
         def write(line):
-            self.call_from_thread(log.write_line, line)
+            self.call_from_thread(log.write, line)
         try:
             written = await asyncio.to_thread(convert, save, out, Path(template).expanduser() if template else None,
                                               self.query_one('#keep', Checkbox).value, write)
             self.notify(f'Converted save written to {written}', title='Done', markup=False, timeout=8)
         except ValueError as e:  # the converter's own checks
-            log.write_line(f'error: {e}')
+            log.write(f'error: {e}')
             self.fail(f'Conversion failed: {e}')
         except Exception as e:
-            log.write_lines(traceback.format_exc().splitlines())
+            log.write(traceback.format_exc().rstrip())
             self.fail(f'Conversion failed: {e}')
         finally:
             button.disabled = False
+            button.focus()  # disabling it moved focus to the checkbox, where Space would tick it
 
 
 if __name__ == '__main__':
