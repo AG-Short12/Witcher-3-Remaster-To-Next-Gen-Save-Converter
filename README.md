@@ -59,7 +59,7 @@ can do its thing and create a better structured save-file.
 
 ### How to build
 
-You can build `w3-downgrade.exe` yourself on Windows. You need Python 3.12 or newer. Open a terminal in
+You can build `w3-downgrade.exe` yourself on Windows. (Haven't tested it on Mac and Linux yet) You need Python 3.12 or newer. Open a terminal in
 this repository's folder and run:
 
 ```
