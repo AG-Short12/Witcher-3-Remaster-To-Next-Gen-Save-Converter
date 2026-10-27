@@ -44,17 +44,17 @@ python w3_downgrade_app.py
 
 ![The converter after converting a save](screenshots/main.png)
 
-1. Choose your save with the first Browse button. Your saves are usually in
-   `Documents\The Witcher 3\gamesaves`.
-2. Choose an output folder. It has to be a different folder than the one your save is in.
-3. Leave the skill template empty and press "Convert to 4.04".
-4. Copy the new `.sav` file and its `.png` picture from the output folder into your save folder.
+**1. Choose your save with the first Browse button. Your saves are usually in**  
+   `Documents\The Witcher 3\gamesaves`.  
+**2. Choose an output folder. It has to be a different folder than the one your save is in.**  
+**3. Leave the skill template empty and press "Convert to 4.04".**  
+**4. Copy the new `.sav` file and its `.png` picture from the output folder into your save folder.**
 
-The **"Keep 5.0-only data"** box should normally stay unticked. It is a fallback in case a converted save
+*The **"Keep 5.0-only data"** box should normally stay unticked. It is a fallback in case a converted save
 does not load in 4.04. When it is ticked, the converter leaves a few small pieces of 5.0 data in the save:
 the game's build number, the list of mods, an extra map-marker setting and a setting for Geralt's scar.
 Everything else is converted as usual, including the inventory, skills and mutagens. So far, it has not
-been needed.
+been needed.*
 
 The Browse buttons open a small file browser inside the program:
 
